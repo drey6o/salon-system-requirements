@@ -5,10 +5,9 @@ Academic project (PJATK, Information Systems Design): analysis and modelling of 
 ## What is inside
 | File | Description |
 |---|---|
-| `Requirements_Specification.pdf` | Functional requirements, actors, use-case scenarios (in Polish) |
-| `activity_diagram.png` | UML activity diagram |
-| `class_diagram.png` | UML class diagram |
-| `use_cases.png` | Use-case diagram(s) |
+| `Specyfikacja wymagań dla Systemu Salonu.docx` | Requirements specification: functional requirements, actors, use-case scenarios (in Polish) |
+| `ad.png` | UML activity diagram |
+| `cld.png` | [UML class diagram] |
 
 ## Scope
 - **Actors:** [e.g. client, employee, administrator]
